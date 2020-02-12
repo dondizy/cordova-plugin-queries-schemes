@@ -39,6 +39,8 @@
           <string>yammer</string>
           <string>salesforce</string>
           <string>wooqer</string>
+          <string>fidelitytoken</string>
+          <string>fidelityonb</string>
         </array>
       </config-file>
     </platform>
